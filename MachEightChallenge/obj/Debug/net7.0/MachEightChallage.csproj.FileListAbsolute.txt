@@ -1,0 +1,15 @@
+C:\Users\Roberth\MachEight\MachEightChallage\bin\Debug\net7.0\MachEightChallage.exe
+C:\Users\Roberth\MachEight\MachEightChallage\bin\Debug\net7.0\MachEightChallage.deps.json
+C:\Users\Roberth\MachEight\MachEightChallage\bin\Debug\net7.0\MachEightChallage.runtimeconfig.json
+C:\Users\Roberth\MachEight\MachEightChallage\bin\Debug\net7.0\MachEightChallage.dll
+C:\Users\Roberth\MachEight\MachEightChallage\bin\Debug\net7.0\MachEightChallage.pdb
+C:\Users\Roberth\MachEight\MachEightChallage\obj\Debug\net7.0\MachEightChallage.csproj.AssemblyReference.cache
+C:\Users\Roberth\MachEight\MachEightChallage\obj\Debug\net7.0\MachEightChallage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Roberth\MachEight\MachEightChallage\obj\Debug\net7.0\MachEightChallage.AssemblyInfoInputs.cache
+C:\Users\Roberth\MachEight\MachEightChallage\obj\Debug\net7.0\MachEightChallage.AssemblyInfo.cs
+C:\Users\Roberth\MachEight\MachEightChallage\obj\Debug\net7.0\MachEightChallage.csproj.CoreCompileInputs.cache
+C:\Users\Roberth\MachEight\MachEightChallage\obj\Debug\net7.0\MachEightChallage.dll
+C:\Users\Roberth\MachEight\MachEightChallage\obj\Debug\net7.0\refint\MachEightChallage.dll
+C:\Users\Roberth\MachEight\MachEightChallage\obj\Debug\net7.0\MachEightChallage.pdb
+C:\Users\Roberth\MachEight\MachEightChallage\obj\Debug\net7.0\MachEightChallage.genruntimeconfig.cache
+C:\Users\Roberth\MachEight\MachEightChallage\obj\Debug\net7.0\ref\MachEightChallage.dll
