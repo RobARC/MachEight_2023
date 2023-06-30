@@ -15,7 +15,7 @@ well as the target sum.
 - SDK .NET 7.0
 
 ## How to use it
-<li>Clone this repository into your machine.</li> 
+<li>Clone this repository into your machine: https://github.com/RobARC/MachEight_2023.git</li> 
 <li>If SDK .NET 7.0 doesn´t installed in your device download from here: https://dotnet.microsoft.com/en-us/download/dotnet/7.0</li>
 <li>Select your appropiate OS</li>
 <li>Check if the installation was ok with this command : <b>dotnet --list-sdks</b></li>
